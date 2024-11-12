@@ -87,6 +87,9 @@
                     <label for="submit">
                         <input type="submit">
                     </label>
+                    <label for="reset">
+                        <input type="reset">
+                    </label>
                 </th>
             </tr>
         </table>
