@@ -67,6 +67,21 @@ input[type="submit"]:hover {
     background-color: #5a9bd4;
 }
 
+input[type="reset"] {
+    width: 200px;
+    padding: 10px;
+    background-color: #C2FFC7;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+input[type="reset"]:hover {
+    background-color: #5a9bd4;
+}
+
 img {
     align-items: center;
     height: 100px;
